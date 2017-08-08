@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "EG7ZTZQ3JQ.com.klystrontech.LemonPR"
+        }
+    }
+}
